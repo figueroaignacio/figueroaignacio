@@ -35,7 +35,6 @@ I've been diving into the web ecosystem on my own for nearly three years now foc
 ## Contact
 If you're interested in collaborating on a project or simply want to get in touch, feel free to email me at ignaciofigueroadev@gmail.com.
 
-Or you can contact me via LinkedIn
-[Ignacio Figueroa](https://www.linkedin.com/in/ignacio-figueroa-0a1ba0263)
+Or you can reach me via LinkedIn [here](https://www.linkedin.com/in/ignacio-figueroa-0a1ba0263)
 
 Cheers!
