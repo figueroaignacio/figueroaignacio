@@ -5,7 +5,7 @@ I've been diving into the web ecosystem on my own for nearly three years now foc
 
 ### 🛠 Skills
 
-```
+```javascript
 const ignacioFigueroa = {
   languages: ['JavaScript', 'TypeScript'],
   tools: ['React', 'Next.js', 'Vite', 'Astro, 'Supabase', 'Git', 'GitHub', 'Visual Studio Code', 'SWR', React Router],
