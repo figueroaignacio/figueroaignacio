@@ -27,6 +27,7 @@ I've been diving into the web ecosystem on my own for nearly three years now foc
 - React Router
 - React Hook Form
 - Vite
+- Sanity CMS
 - pnpm
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=figueroaignacio&theme=onedark&hide_border=false)<br/>
