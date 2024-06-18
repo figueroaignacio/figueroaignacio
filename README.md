@@ -30,7 +30,6 @@ I've been diving into the web ecosystem on my own for nearly three years now foc
 - Sanity CMS
 - pnpm
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=figueroaignacio&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=figueroaignacio&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Contact
