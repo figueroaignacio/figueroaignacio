@@ -1,4 +1,4 @@
-# Hi, I'm Nacho! 👋 Software developer with a strong focus in the Frontend side.
+# Hi, I'm Ignacio! 👋 Software developer with a strong focus in the Frontend side.
 
 ### About Me
 I've been diving into the web ecosystem on my own for nearly three years now focusing on the Frontend Development, soaking up everything I can about crafting awesome user interfaces. Always hungry to learn and stay on top of the latest web tech.
@@ -28,7 +28,10 @@ I've been diving into the web ecosystem on my own for nearly three years now foc
 - React Hook Form
 - Vite
 - Sanity CMS
-- pnpm
+- PNPM
+- Velite
+- Contentlayer
+- MDX
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=figueroaignacio&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
