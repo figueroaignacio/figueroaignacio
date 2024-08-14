@@ -1,7 +1,5 @@
 ![Ignacio Figueroa](https://ignaciofigueroa.vercel.app/og-image.png)
 
-# Hi, I'm Ignacio Figueroa - Web Developer
-
 ### About Me
 I'm Ignacio Figueroa, a dedicated Frontend Web Developer with nearly two years of self-driven experience. My passion lies in crafting seamless and interactive user experiences. This journey into web development has been fueled by my innate curiosity and commitment to mastering the latest web technologies. I thrive on learning and pushing the boundaries of what’s possible in the digital space.
 
