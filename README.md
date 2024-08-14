@@ -1,37 +1,13 @@
-# Hi, I'm Ignacio! 👋 Software developer with a strong focus in the Frontend side.
+# Hi, I'm Ignacio! Web developer with a strong focus in the Frontend side.
 
 ### About Me
-I've been diving into the web ecosystem on my own for nearly three years now focusing on the Frontend Development, soaking up everything I can about crafting awesome user interfaces. Always hungry to learn and stay on top of the latest web tech.
+I've been diving into the web ecosystem on my own for nearly two years now focusing on the Frontend Development, soaking up everything I can about crafting awesome user interfaces. Always hungry to learn and stay on top of the latest web tech.
 
-### Skills
+### Tech Skills
+Javascript, Typescript, HTML, CSS, CSS Modules, Tailwind, Material UI, React, Next.js, Astro.
  
-**Programming Languages**:
-- Javascript
-- Typescript
-
-**Frontend tech stack & Frameworks/Libraries**:
-- React
-- Next.js
-- Astro
-- Tailwind
-- Material UI
-- HTML5
-- CSS3
-- CSS Modules
-
 **Tools**:
-- Git
-- GitHub
-- Visual studio code
-- SWR
-- React Router
-- React Hook Form
-- Vite
-- Sanity CMS
-- PNPM
-- Velite
-- Contentlayer
-- MDX
+Git, Github, Visual Studio Code, SWR, React Router, React Hook Form, Vite, pnpm, Velite, Contentlayer, MDX
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=figueroaignacio&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
