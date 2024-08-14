@@ -1,5 +1,8 @@
 # Hi, I'm Ignacio! Web developer with a strong focus in the Frontend side.
 
+![Ignacio Figueroa](https://ignaciofigueroa.vercel.app/og-image.png)
+
+
 ### About Me
 I've been diving into the web ecosystem on my own for nearly two years now focusing on the Frontend Development, soaking up everything I can about crafting awesome user interfaces. Always hungry to learn and stay on top of the latest web tech.
 
