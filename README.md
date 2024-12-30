@@ -1,28 +1,47 @@
-![Ignacio Figueroa](https://ignaciofigueroa.vercel.app/og-image.png)
+<div align="center">
+  <img src="https://ignaciofigueroa.vercel.app/og-image.png" alt="Ignacio Figueroa - Full Stack Developer" width="100%" />
+</div>
 
-### About Me
-I'm Ignacio Figueroa, a dedicated Frontend Web Developer with nearly two years of self-driven experience. My passion lies in crafting seamless and interactive user experiences. This journey into web development has been fueled by my innate curiosity and commitment to mastering the latest web technologies. I thrive on learning and pushing the boundaries of what’s possible in the digital space.
+## Full Stack Developer
 
-### Tech Skills
+I'm a versatile Full Stack Developer with a strong focus on frontend technologies and growing expertise in backend development. Specializing in building modern, scalable web applications, I leverage my skills in both client-side and server-side technologies to deliver comprehensive solutions that prioritize performance, user experience, and code quality.
 
-**Languages & Frameworks**:
-- **Languages**: JavaScript, TypeScript, HTML, CSS
-- **Frameworks & Libraries**: React, Next.js, Astro
+### Professional Summary
 
-**Styling**:
-- **CSS Tools**: CSS Modules, Tailwind CSS, Material UI
+- Full stack development with modern JavaScript/TypeScript frameworks and libraries
+- Implementation of responsive and accessible web interfaces
+- Backend development using Node.js and NestJS
+- Database design and management with PostgreSQL
+- Performance optimization and best practices implementation across the stack
+- Strong focus on clean code and maintainable architecture
 
-**Tools & Utilities**:
-- **Development Tools**: Git, GitHub, Visual Studio Code
-- **React Ecosystem**: SWR, React Router, React Hook Form
-- **Build Tools**: Vite, pnpm
-- **Content Management**: Contentlayer, Velite, MDX
+### Technical Expertise
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=figueroaignacio&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### Let's Connect
-I'm always open to new opportunities, collaborations, or just a friendly chat. Feel free to reach out via email at **ignaciofigueroadev@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/ignacio-figueroa-0a1ba0263).
-
-Looking forward to connecting with you!
-
-Cheers!
+```javascript
+const expertise = {
+  frontend: {
+    languages: ['TypeScript', 'JavaScript'],
+    markup: ['HTML5', 'CSS3'],
+    frameworks: ['React', 'Next.js', 'Astro'],
+    styling: ['Tailwind CSS', 'CSS Modules', 'Material UI']
+  },
+  backend: {
+    runtime: ['Node.js'],
+    frameworks: ['NestJS', 'Express.js'],
+    databases: ['PostgreSQL'],
+    orms: ['Prisma']
+  },
+  development: {
+    versionControl: ['Git', 'GitHub'],
+    environment: ['VS Code'],
+    buildTools: ['Vite', 'pnpm'],
+    testing: ['Jest', 'React Testing Library', 'Supertest']
+  },
+  architecture: {
+    stateManagement: ['React Context', 'SWR'],
+    routing: ['React Router'],
+    forms: ['React Hook Form'],
+    content: ['MDX', 'Contentlayer', 'Velite'],
+    api: ['RESTful', 'GraphQL']
+  }
+}
