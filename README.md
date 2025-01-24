@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://ignaciofigueroa.vercel.app/og-image.png" alt="Ignacio Figueroa - Full Stack Developer" width="100%" />
-</div>
-
 ## Full Stack Developer
 
 I'm a versatile Full Stack Developer with a strong focus on frontend technologies and growing expertise in backend development. Specializing in building modern, scalable web applications, I leverage my skills in both client-side and server-side technologies to deliver comprehensive solutions that prioritize performance, user experience, and code quality.
