@@ -1,1 +1,1 @@
-Hello. I own a computer and I started to write code.
+Hello. I own a computer and I started learning to code. 
