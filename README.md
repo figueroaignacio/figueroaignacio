@@ -1,1 +1,1 @@
-Hello. I own a computer and I started learning to code. 
+Hi there. I own a computer, and I sometimes make it do things… like code.
