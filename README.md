@@ -2,7 +2,9 @@ Hi there. I'm Ignacio
 
 I turn ideas into web experiences. From the UI you see to the logic you don't.
 
-Learning. Building. Coding. Improving.
+Learning. Building. Coding. Improving. Asking AI. Fixing what AI broke. More coding. Drinking mate. Reading docs. And yes, more coding.
+
+Stack: Next.js, React, TypeScript, Node.js, Nest.js, Groq SDK, Gen AI SDK, Tailwind, Turborepo, Git & GitHub
 
 You can see more about me here below.
 
