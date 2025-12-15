@@ -6,6 +6,8 @@ Learning. Building. Coding. Improving. Asking AI. Fixing what AI broke. More cod
 
 Stack: Next.js, React, TypeScript, Node.js, Nest.js, Groq SDK, Gen AI SDK, Tailwind, Turborepo, Git & GitHub
 
+Currently building [I7A UI](https://i7a-ui.vercel.app) and exploring LLM-powered applications through API integrations, while leveraging AI to accelerate my development workflow and learning.
+
 You can see more about me here below.
 
 - [ignaciofigueroa.dev](https://ignaciofigueroa.vercel.app)
