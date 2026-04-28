@@ -6,6 +6,6 @@ Focused on fullstack and AI integrations, not just wiring APIs together, but bui
 
 Currently working on UTN Buddy and NachUI.
 
-**Stack:** Next.js · React · TypeScript · Python · FastAPI · Node.js · Tailwind · pgvector · Groq · Gemini
+**Stack:** Next.js · React · TypeScript · Python · FastAPI · Node.js · Nest.js · Tailwind 
 
 [ignaciofigueroa.dev](https://en.ignaciofigueroa.dev) · [LinkedIn](https://linkedin.com/in/figueroa-ignacio) · ignaciofigueroadev@gmail.com
