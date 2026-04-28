@@ -1,17 +1,11 @@
-Hi there. I'm Ignacio 
+# Ignacio Figueroa
 
-I turn ideas into web experiences. From the UI you see to the logic you don't.
+Fullstack Developer. I build things that work, then make them better.
 
-Learning. Building. Coding. Improving. Asking AI. Fixing what AI broke. More coding. Drinking mate. Reading docs. And yes, more coding.
+Focused on fullstack and AI integrations, not just wiring APIs together, but building systems that actually do something useful.
 
-Stack: Next.js, React, TypeScript, Node.js, Nest.js, Groq SDK, Gen AI SDK, Tailwind, Turborepo, Git & GitHub
+Currently working on UTN Buddy and NachUI.
 
-Currently building [NachUI](https://ignaciofigueroa.vercel.app/en/projects/nachui-my-own-design-system-and-react-kit-components) and [NachAI](https://ignaciofigueroa.vercel.app/en/projects/nachai-ai-powered-ui-generator). Exploring LLM-powered applications through API integrations, while leveraging AI to accelerate my development workflow and learning.
+**Stack:** Next.js · React · TypeScript · Python · FastAPI · Node.js · Tailwind · pgvector · Groq · Gemini
 
-You can see more about me here below.
-
-- [ignaciofigueroa.dev](https://ignaciofigueroa.vercel.app)
-- [linkedin.com/in/figueroa-ignacio](https://www.linkedin.com/in/figueroa-ignacio)
-
-Contact me at: [ignaciofigueroadev@gmail.com](ignaciofigueroadev@gmail.com)
-
+[ignaciofigueroa.dev](https://en.ignaciofigueroa.dev) · [LinkedIn](https://linkedin.com/in/figueroa-ignacio) · ignaciofigueroadev@gmail.com
