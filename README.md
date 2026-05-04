@@ -8,4 +8,4 @@ Currently working on UTN Buddy and NachUI.
 
 **Stack:** Next.js · React · TypeScript · Python · FastAPI · Node.js · Nest.js · Tailwind 
 
-[ignaciofigueroa.dev](https://en.ignaciofigueroa.dev) · [LinkedIn](https://linkedin.com/in/figueroa-ignacio) · ignaciofigueroadev@gmail.com
+[ignaciofigueroa.dev](https://ignaciofigueroa.dev) · [LinkedIn](https://linkedin.com/in/figueroa-ignacio) · ignaciofigueroadev@gmail.com
