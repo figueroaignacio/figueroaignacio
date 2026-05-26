@@ -1,4 +1,3 @@
-```
 ██╗ ██████╗ ███╗   ██╗ █████╗  ██████╗██╗ ██████╗
 ██║██╔════╝ ████╗  ██║██╔══██╗██╔════╝██║██╔═══██╗
 ██║██║  ███╗██╔██╗ ██║███████║██║     ██║██║   ██║
@@ -12,32 +11,25 @@
 ██╔══╝  ██║██║   ██║██║   ██║██╔══╝  ██╔══██╗██║   ██║██╔══██║
 ██║     ██║╚██████╔╝╚██████╔╝███████╗██║  ██║╚██████╔╝██║  ██║
 ╚═╝     ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
-```
 
-
-```
 ╔══════════════════════════════════════════════════════════════╗
 ║  Fullstack Dev  •  AI Systems  •  Frontend Engineering      ║
 ╚══════════════════════════════════════════════════════════════╝
-```
 
 ```console
 ignacio@github:~$ open links
 ```
 
-```
 ┌──────────────────────────────────────────────────────────────┐
 │  website   → https://ignaciofigueroa.dev                    │
 │  linkedin  → https://linkedin.com/in/figueroa-ignacio       │
 │  email     → contact@ignaciofigueroa.dev                    │
 └──────────────────────────────────────────────────────────────┘
-```
 
 ```console
 ignacio@github:~$ whoami
 ```
 
-```
 ┌────────────────────────────────────────────────────────────────────┐
 │  Fullstack developer focused on building performant applications, │
 │  AI-powered systems, and developer-first experiences.             │
@@ -45,15 +37,11 @@ ignacio@github:~$ whoami
 │  Currently shipping tools that combine strong UI/UX with           │
 │  production-ready AI workflows.                                    │
 └────────────────────────────────────────────────────────────────────┘
-```
-
----
 
 ```console
 ignacio@github:~$ ls focus/
 ```
 
-```
 ┌──────────────────────────────────────────────────────┐
 │  ◈  AI integrations & RAG systems                    │
 │  ◈  Frontend architecture                            │
@@ -61,14 +49,9 @@ ignacio@github:~$ ls focus/
 │  ◈  Backend systems with NestJS & Python             │
 │  ◈  Scalable APIs and infrastructure                 │
 └──────────────────────────────────────────────────────┘
-```
-
----
 
 ```console
 ignacio@github:~$ cat stack.json
-```
-
 ```
 ┌──────────────────┬────────────────────────────────────────────────────┐
 │  Frontend        │  Next.js · React · TypeScript · Tailwind          │
@@ -82,15 +65,11 @@ ignacio@github:~$ cat stack.json
 ├──────────────────┼────────────────────────────────────────────────────┤
 │  Tooling         │  Git · Linux · Turborepo · Drizzle ORM            │
 └──────────────────┴────────────────────────────────────────────────────┘
-```
-
----
 
 ```console
 ignacio@github:~$ ls projects/
 ```
 
-```
 ┌────────────────────┬────────────────────────────────────────────────────────────┐
 │                    │                                                            │
 │  NachUI            │  Modern copy-paste React component library with built-in  │
@@ -118,7 +97,6 @@ ignacio@github:~$ ls projects/
 │  Repo              │  github.com/figueroaignacio/www                           │
 │                    │                                                            │
 └────────────────────┴────────────────────────────────────────────────────────────┘
-```
 
 ```console
 ignacio@github:~$ echo "focused on clean systems, good UX, and AI-powered experiences." ▌
