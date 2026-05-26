@@ -1,4 +1,4 @@
-```txt
+```
 ██╗ ██████╗ ███╗   ██╗ █████╗  ██████╗██╗ ██████╗
 ██║██╔════╝ ████╗  ██║██╔══██╗██╔════╝██║██╔═══██╗
 ██║██║  ███╗██╔██╗ ██║███████║██║     ██║██║   ██║
@@ -15,7 +15,7 @@
 ```
 
 
-```txt
+```
 ╔══════════════════════════════════════════════════════════════╗
 ║  Fullstack Dev  •  AI Systems  •  Frontend Engineering      ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -25,7 +25,7 @@
 ignacio@github:~$ open links
 ```
 
-```txt
+```
 ┌──────────────────────────────────────────────────────────────┐
 │  website   → https://ignaciofigueroa.dev                    │
 │  linkedin  → https://linkedin.com/in/figueroa-ignacio       │
@@ -37,7 +37,7 @@ ignacio@github:~$ open links
 ignacio@github:~$ whoami
 ```
 
-```txt
+```
 ┌────────────────────────────────────────────────────────────────────┐
 │  Fullstack developer focused on building performant applications, │
 │  AI-powered systems, and developer-first experiences.             │
@@ -53,7 +53,7 @@ ignacio@github:~$ whoami
 ignacio@github:~$ ls focus/
 ```
 
-```txt
+```
 ┌──────────────────────────────────────────────────────┐
 │  ◈  AI integrations & RAG systems                    │
 │  ◈  Frontend architecture                            │
@@ -69,7 +69,7 @@ ignacio@github:~$ ls focus/
 ignacio@github:~$ cat stack.json
 ```
 
-```txt
+```
 ┌──────────────────┬────────────────────────────────────────────────────┐
 │  Frontend        │  Next.js · React · TypeScript · Tailwind          │
 │                  │  Vite · Framer Motion                             │
@@ -90,7 +90,7 @@ ignacio@github:~$ cat stack.json
 ignacio@github:~$ ls projects/
 ```
 
-```txt
+```
 ┌────────────────────┬────────────────────────────────────────────────────────────┐
 │                    │                                                            │
 │  NachUI            │  Modern copy-paste React component library with built-in  │
