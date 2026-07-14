@@ -1,4 +1,6 @@
-Ignacio Figueroa - Software Developer | Argentina, Bs As.
+<p align="center">
+  <img src="banner.png" alt="Ignacio Figueroa - Fullstack / AI Developer" width="100%" />
+</p>
 
 ```console
 ignacio@github:~$ open links
