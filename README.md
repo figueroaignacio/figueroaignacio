@@ -1,4 +1,4 @@
-![banner](./banner_github.png)
+Ignacio Figueroa - Software Developer | Argentina, Bs As.
 
 ```console
 ignacio@github:~$ open links
